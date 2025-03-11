@@ -7,4 +7,5 @@ INTEGRANTES
 - ANGEL RIOS
 - ALHANA PINEDA
 
-  ![Uploading IMG_20241017_120232.jpg…]()
+  ![IMG_20241017_120232](https://github.com/user-attachments/assets/76628ef4-e55d-46bb-8bfd-390d6b21692a)
+
