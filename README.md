@@ -10,3 +10,4 @@ INTEGRANTES
   ![IMG_20241017_120232](https://github.com/user-attachments/assets/2d837fe1-5565-41c2-895f-1ab21c6b1a96)
 
 
+RESUMEN DEL PROYECTO
