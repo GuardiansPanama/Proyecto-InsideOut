@@ -24,7 +24,22 @@ Se tomaron las desiciones sobre el proyecto, el tema que se escogio fue la pelic
 
 ** Construccion de Robots**
 
+Se tomo la decisión de construir 3 robots para las emociones principales: Alegría, Tristeza e Ira, los materiales utilizados fue madera blanca de 3 mm y de 6mm, el diseño se hizo en el programa Inkscape, donde se vectorizo y luego se pasó al programa Lightburn para hacer el corte de las formas
+
 ![ira](https://github.com/user-attachments/assets/0278664d-e177-4d89-97c0-9d7091f8aadf)
+
+Todas las formas se cortaron en la CNC Laser del salón de multimedia 
+
+![IMG_20250318_131557](https://github.com/user-attachments/assets/f08b8747-c9ef-4b82-8711-52e075d079ee)
+
+
+![IMG_20241007_100638](https://github.com/user-attachments/assets/814c65b4-c7cb-4d5e-92c4-e7852facfaed)
+
+
+![IMG_20250318_131557](https://github.com/user-attachments/assets/007491a6-0945-41ea-8e43-7a6ace0f926a)
+
+
+
 
 
   
