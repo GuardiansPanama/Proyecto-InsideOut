@@ -40,6 +40,13 @@ Todas las formas se cortaron en la CNC Laser del salón de multimedia
 ![IMG_20250318_131557](https://github.com/user-attachments/assets/007491a6-0945-41ea-8e43-7a6ace0f926a)
 
 
+Tambien se procedio a imprimir piezas en 3D como las bases para la parte mecanica, bases de tubo de 1 pulgada para sostener las formas, cajas para la parte electronica de los robots
+
+![IMG_20241005_120647](https://github.com/user-attachments/assets/1562888d-902d-478b-94c3-e2defdec3806)
+
+
+![IMG_20250324_173958](https://github.com/user-attachments/assets/475018c2-6e28-4903-a5d0-c7ad640a30f7)
+
 
 
 
