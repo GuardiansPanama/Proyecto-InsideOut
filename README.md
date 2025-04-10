@@ -21,4 +21,11 @@ Se tomaron las desiciones sobre el proyecto, el tema que se escogio fue la pelic
 - Construccion de la estructura de los robots
 - La posibilidad de diseñar un sistema de IA que reconozca emociones como alegria, tristeza, ira para controlar los robots
 - Construir todo el sistema electronico de los robots, como sistemas de control de motores, sensores y servos
+
+** Construccion de Robots**
+
+![ira](https://github.com/user-attachments/assets/0278664d-e177-4d89-97c0-9d7091f8aadf)
+
+
+  
   
