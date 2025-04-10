@@ -30,7 +30,8 @@ Se tomo la decisión de construir 3 robots para las emociones principales: Alegr
 
 Todas las formas se cortaron en la CNC Laser del salón de multimedia 
 
-![IMG_20250318_131557](https://github.com/user-attachments/assets/f08b8747-c9ef-4b82-8711-52e075d079ee)
+![IMG_20241007_095517](https://github.com/user-attachments/assets/2ee32f96-3f6f-486e-8b63-064292253769)
+
 
 
 ![IMG_20241007_100638](https://github.com/user-attachments/assets/814c65b4-c7cb-4d5e-92c4-e7852facfaed)
