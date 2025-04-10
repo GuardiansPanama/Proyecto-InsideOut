@@ -48,7 +48,7 @@ Tambien se procedio a imprimir piezas en 3D como las bases para la parte mecanic
 ![IMG_20250324_173958](https://github.com/user-attachments/assets/475018c2-6e28-4903-a5d0-c7ad640a30f7)
 
 
-
+Hay que mencionar que en la pelicula cada emoción tiene su color Alegria el color amarillo, Tristeza el color azul y Ira el rojo, por eso las pirezas fueron impresas para que cada robot quedara con su color, para la impresion de todas estas piezas se uso filamento PLA
 
   
   
