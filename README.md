@@ -15,7 +15,7 @@
 NUESTRO PROYECTO SE BASA EN EL USO DE LA INTELIGENCIA ARTIFICIAL PARA EL RECONOCIMIENTO DE GESTOS DE EMOCIONES (ALEGRIA, TRISTEZA, IRA, DISGUSTO), PARA CONTROLAR LOS ROBOTS. UTILIZAMOS EL PROGRAMA DEEPFACE, UN PROGRAMA LIGERO EN PHYTON CON LA CAPACIDAD DE RECONOCER ROSTROS Y GESTOS, ENTRE ELLOS EMOCIONES, MEDIANTE EL PROGRAMA OPENCV SE PROCESA EL VIDEO EN VIVO, AL RECONOCER LA EMOCION MANDA UN COMANDO POR MEDIO DEL PROGRAMA PYSERIAL A UN CONTROLADOR ARDUINO Y ESTE MANDA LA INFORMACION A LOS DIFERENTES ROBOTS
 
 
-**Agosto 2024**
+**AGOSTO 2024**
 
 Se tomaron las desiciones sobre el proyecto, el tema que se escogio fue la pelicula Inside-Out 2, entre las tareas pendientes:
 - Construccion de la estructura de los robots
@@ -50,5 +50,37 @@ Tambien se procedio a imprimir piezas en 3D como las bases para la parte mecanic
 
 Hay que mencionar que en la pelicula cada emoción tiene su color Alegria el color amarillo, Tristeza el color azul y Ira el rojo, por eso las pirezas fueron impresas para que cada robot quedara con su color, para la impresion de todas estas piezas se uso filamento PLA
 
+**CONSTRUCCION MECANICA**
+
+La base de los robots Alegria e Ira se hicieron con perfiles de aluminio a los cuales se atornillaban los motores y ruedas, se le añadio una placa impresa en 3D donde se puso una base para poner un tubo de PVC de 1 pulgada, que sostiene las figuras, se usaron motores de 12v DC y controladores de motor de alta potencia, se usaron ruedas del tipo omnidireccional en la parte delantera, ya que le da una mayor movilidad al robot.
+
+![IMG_20250322_103829](https://github.com/user-attachments/assets/eae8cb28-8068-4a89-8271-3b48224d07fe)
+
+**FEBRERO 2025**
+
+Se cambio base de los robots, se eliminaron los perfiles de aluminio y se cambio por una base de madera de 6mm, esto hace que la base sea mas compacta y liviana
+
+![IMG_20250403_125326](https://github.com/user-attachments/assets/27ac8d28-8132-4322-a25d-0b9c61de829d)
+
+![IMG_20250403_125311](https://github.com/user-attachments/assets/c5b01a92-0c6a-4fc9-8ad9-fcf9b8ffeea3)
+
+**MARZO 2025**
   
-  
+  Se añadio nuevo robot Disgusto
+
+  ![IMG_20250324_174041](https://github.com/user-attachments/assets/10daf45a-2ffb-4049-be8b-fc2af3cb3a25)
+
+
+  Cada figura se detallo y pinto a mano, para la presentacion cada figura tiene un color:
+
+  Alegria : Amarillo
+  Tristeza: Azul
+  Ira: rojp
+  Disgusto : verde
+
+  ![IMG_20250325_140325](https://github.com/user-attachments/assets/012c20cc-1f3e-4b2a-a5de-05fb68852c4a)
+
+  ![IMG_20250322_103802](https://github.com/user-attachments/assets/583ed56c-57a3-4950-9c16-01f0266343c8)
+
+
+
