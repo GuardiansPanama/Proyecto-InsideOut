@@ -82,5 +82,23 @@ Se cambio base de los robots, se eliminaron los perfiles de aluminio y se cambio
 
   ![IMG_20250322_103802](https://github.com/user-attachments/assets/583ed56c-57a3-4950-9c16-01f0266343c8)
 
+ELECTRONICA
+
+**Agosto 2024**
+
+Para la parte de control de los sistemas se escogio la familia de Arduino, con el microprocesador Aduino Mega 
+
+![mega](https://github.com/user-attachments/assets/9eabf93b-f26a-4250-8607-de0f335cad59)
+
+
+Se penso en utilizar otros microcontroladores como el ESP-32, que tenian ventajas como ser mas pequeños, tienen bluehooth incorporado y  mas de poder que el Arduino Mega, pero no teniamos suficientes y quedara para mejoras futuras
+
+![esp32_wroom_32e](https://github.com/user-attachments/assets/9ff923d9-eb95-42fa-8842-a310f0af2679)
+
+
+![Presentación1](https://github.com/user-attachments/assets/69960e72-6712-4887-8808-15b40c2ec09e)
+
+
+
 
 
