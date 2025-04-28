@@ -114,5 +114,16 @@ Se utilizan motores REV son muy confiables y de alta potencia
 
 En los robots Felicidad y Tristeza los comandos se reciben mediante el sistema de comunicacion, Ira y Desagrado se manejan mediante el uso de sensores y son autonomos
 
+**ROBOT IRA**
 
+Para el movimiento del robot Ira se utilizo un sensor de vision con Inteligencia Artificial DFROBOT Huskilens, se utiliza em dos modos, reconocimiento de cara y deteccion de coordenadas del objeto.
+
+![huskylens](https://github.com/user-attachments/assets/764633aa-19f7-486e-a88e-03b8ba9daf82)
+
+
+Diagrama de Funcionamiento
+
+![huskilens](https://github.com/user-attachments/assets/f3a69412-d70f-4fb3-a841-67304d68f6ca)
+
+El robot Ira funciona con un programa de seguimiento de objeto, si la cara que ve la camara corresponde con la cara guardada en la memoria el sistema, empieza el programa de seguimiento de objeto, se busca las coordenadas horizontal y vertical donde esta el objeto, estas coordenadas con el valor X pueden decir si el objeto esta a la derecha o a la izquierda, la posicion en Y nos puede decir la altura del objeto, un objeto mas alto esta cerca, un objeto mas pequeño esta mas alejado, toda esa información es procesada por el Arduino Mega, este manda los comandos a los controladores de motores y esto hace que el robor siga al objeto
 
