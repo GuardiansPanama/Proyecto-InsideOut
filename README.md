@@ -96,9 +96,23 @@ Se penso en utilizar otros microcontroladores como el ESP-32, que tenian ventaja
 ![esp32_wroom_32e](https://github.com/user-attachments/assets/9ff923d9-eb95-42fa-8842-a310f0af2679)
 
 
+Diagrama de funcionamiento
+
+
 ![Presentación1](https://github.com/user-attachments/assets/69960e72-6712-4887-8808-15b40c2ec09e)
 
+El funcionamiento de los  cuatro sistemas es muy parecido, la informacion que viene de los sistemas de comunicacion o de los sensores es enviada al Arduino que procesa esta informacion, enviando comandos los controladores de motor que hacen mover a las ruedas y dirigen los movimientos del robot.
 
+![IMG_20250404_140245](https://github.com/user-attachments/assets/88aab5d5-4bd4-48b7-b610-1338ca91c082)
+
+![IMG_20250403_125347](https://github.com/user-attachments/assets/5a435580-555c-4ced-9ffb-1c70fad7ac01)
+
+
+Se utilizan motores REV son muy confiables y de alta potencia
+
+![rev](https://github.com/user-attachments/assets/e2bc18ad-0849-4a4c-8dcd-675133eb4416)
+
+En los robots Felicidad y Tristeza los comandos se reciben mediante el sistema de comunicacion, Ira y Desagrado se manejan mediante el uso de sensores y son autonomos
 
 
 
