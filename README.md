@@ -127,3 +127,16 @@ Diagrama de Funcionamiento
 
 El robot Ira funciona con un programa de seguimiento de objeto, si la cara que ve la camara corresponde con la cara guardada en la memoria el sistema, empieza el programa de seguimiento de objeto, se busca las coordenadas horizontal y vertical donde esta el objeto, estas coordenadas con el valor X pueden decir si el objeto esta a la derecha o a la izquierda, la posicion en Y nos puede decir la altura del objeto, un objeto mas alto esta cerca, un objeto mas pequeño esta mas alejado, toda esa información es procesada por el Arduino Mega, este manda los comandos a los controladores de motores y esto hace que el robor siga al objeto
 
+
+**ROBOT DISGUSTO**
+
+Este robot tambien se diseño con un sistema de navegacion autonoma, utilizando un programa de seguimiento de objeto, en este caso usando un detector de distancia, al principio se uso un sensor de distancia de ultrasonido, pero despues se probo con un sensor LIDAR  TinyLIDAR, este utiliza un LASER, en practica se observo que es muy exacto y mas pequeño que un sensor de ultrasonido, se coloco en un servo, en el programa se toman lecturas de distancia a 0 , 90 y 180 grados, si detecta objetos a 0 grados, gira a la izquierda, si detecta un objeto a 90 grados sigue de frente y si detecta un objeto a 180 grados gira a la izquierda, si el objeto esta a menos de 300 mm el robot retrocede.
+
+
+![tinyLIDAR](https://github.com/user-attachments/assets/a83ae3c5-4d70-4a57-95bc-b136be1836df)
+
+Diagrama de Funcionamiento
+
+
+![desagrado cuadro](https://github.com/user-attachments/assets/64204a93-0a1d-4d57-8353-47e52d8432cf)
+
