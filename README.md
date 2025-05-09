@@ -142,3 +142,15 @@ Diagrama de Funcionamiento
 
 ![desagrado cuadro](https://github.com/user-attachments/assets/64204a93-0a1d-4d57-8353-47e52d8432cf)
 
+
+![IMG_20250430_172807](https://github.com/user-attachments/assets/9108add2-1612-4688-9226-46c2753acaa7)
+
+Sensor LIDAR TinyLidar
+
+![IMG_20250430_172816](https://github.com/user-attachments/assets/c02ef8f8-fd36-4ee4-8eb5-6d0cb00e0710)
+
+Montaje de LIDAR en Servo
+
+
+
+
