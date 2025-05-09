@@ -152,5 +152,16 @@ Sensor LIDAR TinyLidar
 Montaje de LIDAR en Servo
 
 
+**Robot Alegría**
+
+El robot Alegría esta controlado por el Sistema de Reconocimiento de Emociones SRE, tiene comunicacion inalambrica por medio de Xbee, su principal controlador es un Arduino Mega,con controladores de motor de alta potencia, las ruedas delanteras son Omnidireccionales para mayor presición y agilidad en los movimientos.
+
+![IMG_20250509_133827](https://github.com/user-attachments/assets/5447de26-39bc-4800-b65a-c67d436a5baf)
+
+![IMG_20250509_133832](https://github.com/user-attachments/assets/73518b2f-1e1a-460c-bb8f-988fcc4b1bc3)
+
+Montaje de Servos
+
+![alegria](https://github.com/user-attachments/assets/06a160b8-c053-4986-b8f7-7141ef6e0cba)
 
 
