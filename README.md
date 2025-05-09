@@ -42,6 +42,10 @@ Todas las formas se cortaron en la CNC Laser del salón de multimedia
 
 Tambien se procedio a imprimir piezas en 3D como las bases para la parte mecanica, bases de tubo de 1 pulgada para sostener las formas, cajas para la parte electronica de los robots
 
+![3d (1)](https://github.com/user-attachments/assets/ab8b0ce8-3bac-40f1-bd8d-199703edefb0)
+
+
+
 ![IMG_20241005_120647](https://github.com/user-attachments/assets/1562888d-902d-478b-94c3-e2defdec3806)
 
 
