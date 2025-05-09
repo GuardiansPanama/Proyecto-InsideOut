@@ -4,8 +4,18 @@
 
 **INTEGRANTES**
 - JUAN MONTENEGRO
+
+ ![juan](https://github.com/user-attachments/assets/fb4ba51b-489d-49df-bdb0-fb9c558fa154)
+
+
 - ANGEL RIOS
+
+ ![angel](https://github.com/user-attachments/assets/49f96b38-90ad-4c52-8be2-0aa33cfc2696)
+
 - ALHANA PINEDA
+
+  ![alhana (1)](https://github.com/user-attachments/assets/5d7390e0-ac7b-42d5-9c84-e68c2db1f929)
+
 
   ![IMG_20241017_120232](https://github.com/user-attachments/assets/2d837fe1-5565-41c2-895f-1ab21c6b1a96)
 
