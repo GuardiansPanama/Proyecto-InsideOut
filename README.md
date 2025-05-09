@@ -127,6 +127,8 @@ Diagrama de Funcionamiento
 
 El robot Ira funciona con un programa de seguimiento de objeto, si la cara que ve la camara corresponde con la cara guardada en la memoria el sistema, empieza el programa de seguimiento de objeto, se busca las coordenadas horizontal y vertical donde esta el objeto, estas coordenadas con el valor X pueden decir si el objeto esta a la derecha o a la izquierda, la posicion en Y nos puede decir la altura del objeto, un objeto mas alto esta cerca, un objeto mas pequeño esta mas alejado, toda esa información es procesada por el Arduino Mega, este manda los comandos a los controladores de motores y esto hace que el robor siga al objeto
 
+![IMG_20250509_133730](https://github.com/user-attachments/assets/12c1f47d-817a-4542-bcc1-224ccb0ee1dc)
+
 
 **ROBOT DISGUSTO**
 
