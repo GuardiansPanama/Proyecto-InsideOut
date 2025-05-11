@@ -186,3 +186,6 @@ Montaje de Servos
 Robot Tristeza
 
 A diferencia de los demas robots, Tristeza utiliza un sistema de 3 ruedas omnidireccionales, utiliza 3 controladores de motor conectado a un Arduino Mega, controlando la rotacion de cada motor de puede lograr que se mueva hacia adelante, atras, horizontal y diagonal. La comunicación es mediante Xbee con el SRE.
+
+![tristeza](https://github.com/user-attachments/assets/8833464f-df31-4161-acbd-90496b206fd8)
+
