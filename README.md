@@ -128,6 +128,11 @@ Se utilizan motores REV son muy confiables y de alta potencia
 
 En los robots Felicidad y Tristeza los comandos se reciben mediante el sistema de comunicacion, Ira y Desagrado se manejan mediante el uso de sensores y son autonomos
 
+El sistema de comunicación utilizado es el DIGI Xbee, tiene muchas ventajas sobre el Bluethoot, como mayor alcance, estabilidad, conexion automatica sin necesidad de emparejamiento, la desventaja es que tenemos solo 4 sistemas, lo que limita la cantidad de robots que podemos conectar.
+
+![XBEE](https://github.com/user-attachments/assets/9784618b-7fba-4cca-9ec6-bc02bce4116b)
+
+
 **ROBOT IRA**
 
 Para el movimiento del robot Ira se utilizo un sensor de vision con Inteligencia Artificial DFROBOT Huskilens, se utiliza em dos modos, reconocimiento de cara y deteccion de coordenadas del objeto.
