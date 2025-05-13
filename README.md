@@ -189,3 +189,17 @@ A diferencia de los demas robots, Tristeza utiliza un sistema de 3 ruedas omnidi
 
 ![tristeza](https://github.com/user-attachments/assets/8833464f-df31-4161-acbd-90496b206fd8)
 
+SOFTWARE
+
+Todos los robots estan programados en el IDE de Arduino, el Sistema de Reconocimiento de Emociones S.R.E esta programado en Phyton
+
+El SRE es el software que mas ha tenido desarrollo y trabajo, el programa utiliza OpenCV para procesar la señal de video que llega de una camara en tiempo real, Mediante Google Media Pipe se identifica un rostro y utilizando la libreria de emociones de Deepface se identifica la emoción, se manda un comando serial por medio del app Pyserial que conecta con un Arduino y luego este envia un mensaje por un sistema inalambrico Xbee a los diferentes robots
+
+![programa](https://github.com/user-attachments/assets/fee273e5-a8ed-499b-a788-c1c52027076b)
+
+
+El programa se ejecuta desde una computadora ya que requiere ciertas caracteristicas de hardware, minimo un procesador I3 con 8Gb de RAM
+
+![sre](https://github.com/user-attachments/assets/0e831f4b-197f-43d5-8a88-d4907936d69c)
+
+
