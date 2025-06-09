@@ -25,16 +25,18 @@
 
 OUR PROJECT IS BASED ON THE USE OF A CONTROL SYSTEM WITH ARTIFICIAL INTELLIGENCE FOR THE RECOGNIZATION OF EMOTIONAL GESTURES (HAPPINESS, SADNESS, ANGER, DISGUST), WHICH CONTROLS THE ROBOTS AND THE SHOW. USING THE OPENCV PROGRAM, THE LIVE VIDEO IS PROCESSED, WITH GOOGLE MEDIA PIPE WE IDENTIFY FACES, WE USE THE DEEPFACE PROGRAM, A LIGHTWEIGHT PROGRAM IN PHYTON WITH THE ABILITY TO RECOGNIZE GESTURES. WHEN RECOGNIZING THE EMOTION, IT SENDS A COMMAND THROUGH THE PYSERIAL PROGRAM TO AN ARDUINO CONTROLLER, AND THIS SENDS INSTRUCTIONS THROUGH AN XBEE SYSTEM TO THE DIFFERENT ROBOTS TO EXECUTE THE PRESENTATION. THE SYSTEM IT ALSO SYNCHRONIZES THE VIDEO THAT IS PRESENTED, THE ROBOTS ALSO HAVE FUNCTIONS SUCH AS FACE RECOGNITION, GESTURE RECOGNITION AND OBJECT TRACKING.
 
-**AGOSTO 2024**
 
-Se tomaron las desiciones sobre el proyecto, el tema que se escogio fue la pelicula Inside-Out 2, entre las tareas pendientes:
-- Construccion de la estructura de los robots
-- La posibilidad de diseñar un sistema de IA que reconozca emociones como alegria, tristeza, ira para controlar los robots
-- Construir todo el sistema electronico de los robots, como sistemas de control de motores, sensores y servos
+**AUGUST 2024**
 
-** Construccion de Robots**
+Decisions were made regarding the project. The theme chosen was the movie Inside-Out 2. Among the pending tasks:
 
-Se tomo la decisión de construir 3 robots para las emociones principales: Alegría, Tristeza e Ira, los materiales utilizados fue madera blanca de 3 mm y de 6mm, el diseño se hizo en el programa Inkscape, donde se vectorizo y luego se pasó al programa Lightburn para hacer el corte de las formas
+* Building the robot structure
+* The possibility of designing an AI system that recognizes emotions such as joy, sadness, and anger to control the robots
+*Building the entire electronic system for the robots, such as motor control systems, sensors, and servos
+
+**Robot Construction**
+
+The decision was made to build three robots for the main emotions: Joy, Sadness, and Anger. The materials used were 3 mm and 6 mm white wood. The design was created in Inkscape, where it was vectorized and then transferred to Lightburn to cut the shapes.
 
 ![ira](https://github.com/user-attachments/assets/0278664d-e177-4d89-97c0-9d7091f8aadf)
 
