@@ -111,21 +111,21 @@ Operation diagram
 
 ![Presentación1](https://github.com/user-attachments/assets/69960e72-6712-4887-8808-15b40c2ec09e)
 
-El funcionamiento de los  cuatro sistemas es muy parecido, la informacion que viene de los sistemas de comunicacion o de los sensores es enviada al Arduino que procesa esta informacion, enviando comandos los controladores de motor que hacen mover a las ruedas y dirigen los movimientos del robot.
+The operation of the four systems is very similar: the information coming from the communication systems or sensors is sent to the Arduino, which processes this information, sending commands to the motor controllers that make the wheels move and direct the robot's movements.
 
 ![IMG_20250404_140245](https://github.com/user-attachments/assets/88aab5d5-4bd4-48b7-b610-1338ca91c082)
 
 ![IMG_20250403_125347](https://github.com/user-attachments/assets/5a435580-555c-4ced-9ffb-1c70fad7ac01)
 
 
-Se utilizan motores REV son muy confiables y de alta potencia
 
+REV 12 VOLT MOTORS are used, they are very reliable and high power.
 ![rev](https://github.com/user-attachments/assets/e2bc18ad-0849-4a4c-8dcd-675133eb4416)
 
-En los robots Felicidad y Tristeza los comandos se reciben mediante el sistema de comunicacion, Ira y Desagrado se manejan mediante el uso de sensores y son autonomos
 
-El sistema de comunicación utilizado es el DIGI Xbee, tiene muchas ventajas sobre el Bluethoot, como mayor alcance, estabilidad, conexion automatica sin necesidad de emparejamiento, la desventaja es que tenemos solo 4 sistemas, lo que limita la cantidad de robots que podemos conectar.
+In the Happiness and Sadness robots, commands are received through the communication system; Anger and Disgust are managed through sensors and are autonomous.
 
+The communication system used is the DIGI Xbee. It has many advantages over Bluetooth, such as greater range, stability, and automatic connection without the need for pairing. The disadvantage is that we only have four systems, which limits the number of robots we can connect.
 ![XBEE](https://github.com/user-attachments/assets/9784618b-7fba-4cca-9ec6-bc02bce4116b)
 
 
