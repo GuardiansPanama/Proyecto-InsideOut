@@ -23,7 +23,7 @@
 
 **PROJECT SUMMARY**
 
-OUR PROJECT IS BASED ON THE USE OF A CONTROL SYSTEM WITH ARTIFICIAL INTELLIGENCE FOR THE RECOGNIZATION OF EMOTIONAL GESTURES (HAPPINESS, SADNESS, ANGER, DISGUST), WHICH CONTROLS THE ROBOTS AND THE SHOW. USING THE OPENCV PROGRAM, THE LIVE VIDEO IS PROCESSED, WITH GOOGLE MEDIA PIPE WE IDENTIFY FACES, WE USE THE DEEPFACE PROGRAM, A LIGHTWEIGHT PROGRAM IN PHYTON WITH THE ABILITY TO RECOGNIZE GESTURES. WHEN RECOGNIZING THE EMOTION, IT SENDS A COMMAND THROUGH THE PYSERIAL PROGRAM TO AN ARDUINO CONTROLLER, AND THIS SENDS INSTRUCTIONS THROUGH AN XBEE SYSTEM TO THE DIFFERENT ROBOTS TO EXECUTE THE PRESENTATION. THE SYSTEM IT ALSO SYNCHRONIZES THE VIDEO THAT IS PRESENTED, THE ROBOTS ALSO HAVE FUNCTIONS SUCH AS FACE RECOGNITION, GESTURE RECOGNITION AND OBJECT TRACKING.
+OUR PROJECT IS BASED ON THE USE OF A  SYSTEM WITH ARTIFICIAL INTELLIGENCE FOR THE RECOGNITION OF EMOTIONAL GESTURES (HAPPINESS, SADNESS, ANGER, DISGUST), WHICH CONTROLS THE ROBOTS AND THE SHOW. USING THE OPENCV PROGRAM, THE LIVE VIDEO IS PROCESSED, WITH GOOGLE MEDIA PIPE WE IDENTIFY FACES, WE USE THE DEEPFACE PROGRAM, A LIGHTWEIGHT PROGRAM IN PHYTON WITH THE ABILITY TO RECOGNIZE GESTURES. WHEN RECOGNIZING THE EMOTION, IT SENDS A COMMAND THROUGH THE PYSERIAL PROGRAM TO AN ARDUINO CONTROLLER, AND THIS SENDS INSTRUCTIONS THROUGH AN XBEE SYSTEM TO THE DIFFERENT ROBOTS TO EXECUTE THE PRESENTATION. THE SYSTEM IT ALSO SYNCHRONIZES THE VIDEO THAT IS PRESENTED, THE ROBOTS ALSO HAVE FUNCTIONS SUCH AS FACE RECOGNITION, GESTURE RECOGNITION AND OBJECT TRACKING.
 
 
 **AUGUST 2024**
@@ -40,7 +40,7 @@ The decision was made to build three robots for the main emotions: Joy, Sadness,
 
 ![ira](https://github.com/user-attachments/assets/0278664d-e177-4d89-97c0-9d7091f8aadf)
 
-Todas las formas se cortaron en la CNC Laser del salón de multimedia 
+All shapes were cut on the workshop's CNC Laser.
 
 ![IMG_20241007_095517](https://github.com/user-attachments/assets/2ee32f96-3f6f-486e-8b63-064292253769)
 
@@ -51,9 +51,7 @@ Todas las formas se cortaron en la CNC Laser del salón de multimedia
 
 ![IMG_20250318_131557](https://github.com/user-attachments/assets/007491a6-0945-41ea-8e43-7a6ace0f926a)
 
-
-Tambien se procedio a imprimir piezas en 3D como las bases para la parte mecanica, bases de tubo de 1 pulgada para sostener las formas, cajas para la parte electronica de los robots
-
+3D parts were also printed, such as the bases for the mechanical part and boxes for the electronic part of the robots.
 ![3d (1)](https://github.com/user-attachments/assets/ab8b0ce8-3bac-40f1-bd8d-199703edefb0)
 
 
@@ -64,35 +62,33 @@ Tambien se procedio a imprimir piezas en 3D como las bases para la parte mecanic
 ![IMG_20250324_173958](https://github.com/user-attachments/assets/475018c2-6e28-4903-a5d0-c7ad640a30f7)
 
 
-Hay que mencionar que en la pelicula cada emoción tiene su color Alegria el color amarillo, Tristeza el color azul y Ira el rojo, por eso las pirezas fueron impresas para que cada robot quedara con su color, para la impresion de todas estas piezas se uso filamento PLA
-
+It should be mentioned that in the film each emotion has its color: Joy is yellow, Sadness is blue, and Anger is red, which is why the pieces were printed so that each robot had its own color. PLA filament was used to print all these pieces.
 **CONSTRUCCION MECANICA**
 
-La base de los robots Alegria e Ira se hicieron con perfiles de aluminio a los cuales se atornillaban los motores y ruedas, se le añadio una placa impresa en 3D donde se puso una base para poner un tubo de PVC de 1 pulgada, que sostiene las figuras, se usaron motores de 12v DC y controladores de motor de alta potencia, se usaron ruedas del tipo omnidireccional en la parte delantera, ya que le da una mayor movilidad al robot.
+The base of the robots  were made with aluminum profiles to which the motors and wheels were screwed, a 3D printed plate was added where a base was placed to put a 1-inch PVC pipe, which holds the figures, 12v DC motors and high-power motor controllers were used, omnidirectional wheels were used in the front, since it gives greater mobility to the robot.
 
 ![IMG_20250322_103829](https://github.com/user-attachments/assets/eae8cb28-8068-4a89-8271-3b48224d07fe)
 
-**FEBRERO 2025**
+**FEBRUARY 2025**
 
-Se cambio base de los robots, se eliminaron los perfiles de aluminio y se cambio por una base de madera de 6mm, esto hace que la base sea mas compacta y liviana
 
+The base of the robots was changed, the aluminum profiles were removed and replaced with a 6mm wooden base, this makes the base more compact and lighter.
 ![IMG_20250403_125326](https://github.com/user-attachments/assets/27ac8d28-8132-4322-a25d-0b9c61de829d)
 
 ![IMG_20250403_125311](https://github.com/user-attachments/assets/c5b01a92-0c6a-4fc9-8ad9-fcf9b8ffeea3)
 
-**MARZO 2025**
+**MARCH 2025**
   
-  Se añadio nuevo robot Disgusto
-
+Added new  robot: DISGUST
   ![IMG_20250324_174041](https://github.com/user-attachments/assets/10daf45a-2ffb-4049-be8b-fc2af3cb3a25)
 
 
-  Cada figura se detallo y pinto a mano, para la presentacion cada figura tiene un color:
+Each figure was detailed and hand-painted. For presentation, each figure has a different color:
 
-  Alegria : Amarillo
-  Tristeza: Azul
-  Ira: rojp
-  Disgusto : verde
+Happiness: Yellow
+Sadness: Blue
+Anger: Red
+Disgust: Green
 
   ![IMG_20250325_140325](https://github.com/user-attachments/assets/012c20cc-1f3e-4b2a-a5de-05fb68852c4a)
 
@@ -100,20 +96,18 @@ Se cambio base de los robots, se eliminaron los perfiles de aluminio y se cambio
 
 ELECTRONICA
 
-**Agosto 2024**
+**AUGUST 2024**
 
-Para la parte de control de los sistemas se escogio la familia de Arduino, con el microprocesador Aduino Mega 
 
+For the control part of the systems, the Arduino family was chosen, with the Aduino Mega microprocessor.
 ![mega](https://github.com/user-attachments/assets/9eabf93b-f26a-4250-8607-de0f335cad59)
 
-
-Se penso en utilizar otros microcontroladores como el ESP-32, que tenian ventajas como ser mas pequeños, tienen bluehooth incorporado y  mas de poder que el Arduino Mega, pero no teniamos suficientes y quedara para mejoras futuras
-
+We considered using other microcontrollers like the ESP-32, which had advantages such as being smaller, having built-in Bluetooth and more power than the Arduino Mega, but we didn't have enough and it will be for future improvements.
 ![esp32_wroom_32e](https://github.com/user-attachments/assets/9ff923d9-eb95-42fa-8842-a310f0af2679)
 
 
-Diagrama de funcionamiento
 
+Operation diagram
 
 ![Presentación1](https://github.com/user-attachments/assets/69960e72-6712-4887-8808-15b40c2ec09e)
 
